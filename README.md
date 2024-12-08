@@ -3,6 +3,7 @@
 Submit both colabs and video walkthru of the colabs in github
 
 1)- Write classic GBM method from scratch in python and demonstrate in colab
+
 2) Write random forest from scratdch and demonstrate it in colab
 3) Write adaboost algorithm from scratch and demonstrte it in colab
 4)  Write decision trees from scratch and demonstrate it in colab
